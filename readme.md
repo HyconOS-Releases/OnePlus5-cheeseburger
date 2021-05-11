@@ -2,6 +2,9 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/OnePlus5-cheeseburger/v2.5/total.svg)](https://GitHub.com/OnePlus5-cheeseburger/releases)
+
+
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/OnePlus5-cheeseburger/v2.0/total.svg)](https://GitHub.com/OnePlus5-cheeseburger/releases)
 
 
